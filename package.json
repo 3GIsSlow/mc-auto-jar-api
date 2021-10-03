@@ -1,0 +1,24 @@
+{
+  "name": "mc-auto-jar-api",
+  "version": "1.0.0",
+  "description": "API for automatically retrieving minecraft server jars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3GIsSlow/mc-auto-jar-server.git"
+  },
+  "keywords": [],
+  "author": "Brett Barber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3GIsSlow/mc-auto-jar-server/issues"
+  },
+  "homepage": "https://github.com/3GIsSlow/mc-auto-jar-server#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "express": "^4.17.1"
+  }
+}
